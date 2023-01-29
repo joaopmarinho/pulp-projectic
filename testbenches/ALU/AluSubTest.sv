@@ -38,8 +38,6 @@ module AluSubTest;
         is_subrot_i = 0;
         clpx_shift_i= 2'd0;
         ex_ready_i = 1;
-        // Quais dessas inputs influenciam no resultado ??
-        // teste com resultado negativo dando pau
 
         operator_i = ALU_SUB;
         operand_a_i = 32'd0;
