@@ -1,4 +1,4 @@
-module AndOrXorTest;
+module AluAndOrXorTest;
     import cv32e40p_pkg::*;
 
     logic           [31:0]  result_o;
@@ -45,4 +45,4 @@ module AndOrXorTest;
         operand_a_i = 32'b0101;
         operand_b_i = 32'b0011;
     end
-endmodule: AndOrXorTest
+endmodule: AluAndOrXorTest
