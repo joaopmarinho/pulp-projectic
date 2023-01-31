@@ -27,7 +27,6 @@ module AluAndOrXorTest;
     initial begin
         $monitor($time," - sel = %b: a = %b | b = %b | res = %b", operator_i, operand_a_i, operand_b_i, result_o);
 
-        // Valores iniciais
         #10
         operator_i = ALU_AND;
         operand_b_i = 32'b0101;
@@ -37,8 +36,6 @@ module AluAndOrXorTest;
         operator_i = ALU_OR;
         operand_a_i = 32'b0101;
         operand_b_i = 32'b0011;
-
-        // Após 10, 'b' muda para 1. 'a' continua 0 e 'operator_i' continua ALU_AND
         
         #10
         operator_i = ALU_XOR;
