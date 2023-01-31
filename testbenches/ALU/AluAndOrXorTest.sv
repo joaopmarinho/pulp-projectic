@@ -1,4 +1,4 @@
-module AluAndTest;
+module AluAndOrXorTest;
     import cv32e40p_pkg::*;
 
     logic           [31:0]  result_o;
@@ -28,16 +28,21 @@ module AluAndTest;
         $monitor($time," - sel = %b: a = %b | b = %b | res = %b", operator_i, operand_a_i, operand_b_i, result_o);
 
         // Valores iniciais
+        #10
         operator_i = ALU_AND;
-        operand_a_i = 32'd0;
-        operand_b_i = 32'd0;
+        operand_b_i = 32'b0101;
+        operand_a_i = 32'b0011;
+
+        #10
+        operator_i = ALU_OR;
+        operand_a_i = 32'b0101;
+        operand_b_i = 32'b0011;
 
         // Após 10, 'b' muda para 1. 'a' continua 0 e 'operator_i' continua ALU_AND
-        #10
-        operand_b_i = 32'd1;
         
-        // Após 10, 'a' muda para 1. 'b' continua 1 e 'operator_i' continua ALU_AND
         #10
-        operand_a_i = 32'd1;
+        operator_i = ALU_XOR;
+        operand_a_i = 32'b0101;
+        operand_b_i = 32'b0011;
     end
-endmodule: AluAndTest
+endmodule: AluAndOrXorTest
