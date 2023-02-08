@@ -405,7 +405,13 @@ module cv32e40p_core
       // WFI wake
       .wake_from_sleep_i(wake_from_sleep)
   );
-
+  cv32e40p_sim_clock_gating core_clock_gate_i
+  (
+    .clk_i     ( clk_i           ),
+    .en_i      ( clock_en        ),
+    .scan_cg_en_i ( scan_cg_en_i    ),
+    .clk_o     ( clk             )
+  );
 
   //////////////////////////////////////////////////
   //   ___ _____   ____ _____  _    ____ _____    //
