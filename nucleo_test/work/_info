@@ -1,0 +1,3084 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+vaddr_decode
+Z0 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z1 DXx4 work 11 cf_math_pkg 0 22 CACJjTa`:[nWEK:9o2@>;1
+Z2 !s110 1675813148
+!i10b 1
+!s100 N7l4UA:^U]FU6M7SDHRg@0
+IaI0<_oS>[ib6=lmKhkPJ72
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 addr_decode_sv_unit
+S1
+Z4 dC:/Users/natha/OneDrive/Documentos/nucleo_test
+Z5 w1674858266
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/addr_decode.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/addr_decode.sv
+Z6 L0 30
+Z7 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z8 !s108 1675813148.000000
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/addr_decode.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/addr_decode.sv|
+!i113 1
+Z9 o-work work -sv
+Z10 tCvgOpt 0
+vAluAndTest
+R0
+Z11 DXx4 work 12 cv32e40p_pkg 0 22 ]WZ^o;[=I:Mfi;z18kLVU2
+Z12 !s110 1675813154
+!i10b 1
+!s100 h9i5GdJzz8hWRe<m>BjEl3
+Ia0eSgLD4_jE75P8E<Rnel0
+R3
+!s105 AluAndTest_sv_unit
+S1
+R4
+w1674963490
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/AluAndTest.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/AluAndTest.sv
+L0 1
+R7
+r1
+!s85 0
+31
+Z13 !s108 1675813154.000000
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/AluAndTest.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/AluAndTest.sv|
+!i113 1
+R9
+R10
+n@alu@and@test
+vAluMinMaxTest
+R0
+R11
+Z14 !s110 1675813155
+!i10b 1
+!s100 DS:i1o>h<JGloBgGWGlRM3
+I_MI_VFeG8MCoZG=S<L]>]2
+R3
+!s105 AluMinMaxTest_sv_unit
+S1
+R4
+w1675037199
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/AluMinMaxTest.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/AluMinMaxTest.sv
+L0 1
+R7
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/AluMinMaxTest.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/AluMinMaxTest.sv|
+!i113 1
+R9
+R10
+n@alu@min@max@test
+vAluSubTest
+R0
+R11
+R12
+!i10b 1
+!s100 e2[`Rj_4BkWi>:5XPAoQ<2
+I]]MTmFAD@3nLG<G?`2Og`0
+R3
+!s105 AluSubTest_sv_unit
+S1
+R4
+w1675036188
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/AluSubTest.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/AluSubTest.sv
+L0 1
+R7
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/AluSubTest.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/AluSubTest.sv|
+!i113 1
+R9
+R10
+n@alu@sub@test
+valutest
+R0
+R11
+!s110 1674961775
+!i10b 1
+!s100 ZW_2PCbJNQlgN0Jm[LYz;0
+IzO:eGNjz`d9H=i1]lI6Rd1
+R3
+!s105 alutest_sv_unit
+S1
+R4
+w1674961767
+8C:\Users\natha\OneDrive\Documentos\nucleo_test\alutest.sv
+FC:\Users\natha\OneDrive\Documentos\nucleo_test\alutest.sv
+L0 1
+R7
+r1
+!s85 0
+31
+!s108 1674961775.000000
+!s107 C:\Users\natha\OneDrive\Documentos\nucleo_test\alutest.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:\Users\natha\OneDrive\Documentos\nucleo_test\alutest.sv|
+!i113 1
+R9
+R10
+vbinary_to_gray
+R0
+R2
+!i10b 1
+!s100 RL_P?]=aHkTYRaVXN`jja2
+IR3h6k]8GBe9LSmTgQ@SR?3
+R3
+!s105 binary_to_gray_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/binary_to_gray.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/binary_to_gray.sv
+Z15 L0 15
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/binary_to_gray.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/binary_to_gray.sv|
+!i113 1
+R9
+R10
+vcb_filter
+R0
+Z16 DXx4 work 13 cb_filter_pkg 0 22 7I@m[f84VRgAj<J53^Da72
+R2
+!i10b 1
+!s100 4@^3jB[ZoNaJMen[1_jV;1
+I<0dTUmWX2bNnEG;SES[SG0
+R3
+Z17 !s105 cb_filter_sv_unit
+S1
+R4
+R5
+Z18 8C:/Users/natha/OneDrive/Documentos/nucleo_test/cb_filter.sv
+Z19 FC:/Users/natha/OneDrive/Documentos/nucleo_test/cb_filter.sv
+Z20 L0 43
+R7
+r1
+!s85 0
+31
+R8
+Z21 !s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/cb_filter.sv|
+Z22 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/cb_filter.sv|
+!i113 1
+R9
+R10
+Xcb_filter_pkg
+R0
+Z23 !s110 1675813149
+!i10b 1
+!s100 [@a>2nXFa^j2zG_TZfo=_3
+I7I@m[f84VRgAj<J53^Da72
+V7I@m[f84VRgAj<J53^Da72
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/cb_filter_pkg.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/cb_filter_pkg.sv
+Z24 L0 14
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/cb_filter_pkg.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/cb_filter_pkg.sv|
+!i113 1
+R9
+R10
+vcdc_2phase
+R0
+R23
+!i10b 1
+!s100 @FmWoWziN^X4bc<o?BKMC1
+I[L5Fbz><BFe83@SEh?1gg2
+R3
+Z25 !s105 cdc_2phase_sv_unit
+S1
+R4
+R5
+Z26 8C:/Users/natha/OneDrive/Documentos/nucleo_test/cdc_2phase.sv
+Z27 FC:/Users/natha/OneDrive/Documentos/nucleo_test/cdc_2phase.sv
+Z28 L0 19
+R7
+r1
+!s85 0
+31
+Z29 !s108 1675813149.000000
+Z30 !s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/cdc_2phase.sv|
+Z31 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/cdc_2phase.sv|
+!i113 1
+R9
+R10
+vcdc_2phase_dst
+R0
+R23
+!i10b 1
+!s100 ]eb9LIW5@:9d=kolkTPnf1
+I0[525JhcS9S;E0T^@@cbD1
+R3
+R25
+S1
+R4
+R5
+R26
+R27
+L0 118
+R7
+r1
+!s85 0
+31
+R29
+R30
+R31
+!i113 1
+R9
+R10
+vcdc_2phase_src
+R0
+R23
+!i10b 1
+!s100 kFSZXCTDhhiAJc6BSmh9n0
+IgLgK8?k7FVR5fT?TbQSIg0
+R3
+R25
+S1
+R4
+R5
+R26
+R27
+L0 68
+R7
+r1
+!s85 0
+31
+R29
+R30
+R31
+!i113 1
+R9
+R10
+vcdc_fifo_2phase
+R0
+R23
+!i10b 1
+!s100 DSaQcXk_]5ghn50i^YYIC1
+IH=QCJFoDNUL0LWQMhbLY@1
+R3
+!s105 cdc_fifo_2phase_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/cdc_fifo_2phase.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/cdc_fifo_2phase.sv
+Z32 L0 22
+R7
+r1
+!s85 0
+31
+R29
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/cdc_fifo_2phase.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/cdc_fifo_2phase.sv|
+!i113 1
+R9
+R10
+vcdc_fifo_gray
+R0
+R23
+!i10b 1
+!s100 G<2kg8Ii9o>6R;3HzdX[J3
+Ifo0V:]UMneRBdc<X0>=l@0
+R3
+Z33 !s105 cdc_fifo_gray_sv_unit
+S1
+R4
+Z34 w1674951928
+Z35 8C:/Users/natha/OneDrive/Documentos/nucleo_test/cdc_fifo_gray.sv
+Z36 FC:/Users/natha/OneDrive/Documentos/nucleo_test/cdc_fifo_gray.sv
+L0 78
+R7
+r1
+!s85 0
+31
+R29
+Z37 !s107 registers.svh|C:/Users/natha/OneDrive/Documentos/nucleo_test/cdc_fifo_gray.sv|
+Z38 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/cdc_fifo_gray.sv|
+!i113 1
+R9
+R10
+vcdc_fifo_gray_dst
+R0
+R23
+!i10b 1
+!s100 `m5Z@60I20_GfRz]aiO@30
+IbP:BQI4XlW4K5fl]hE_S>0
+R3
+R33
+S1
+R4
+R34
+R35
+R36
+L0 206
+R7
+r1
+!s85 0
+31
+R29
+R37
+R38
+!i113 1
+R9
+R10
+vcdc_fifo_gray_src
+R0
+R23
+!i10b 1
+!s100 ;3kdgLn;]TUE2Y[LITb`>1
+I7Ph3lFT08Izin;gnFfhTV0
+R3
+R33
+S1
+R4
+R34
+R35
+R36
+L0 148
+R7
+r1
+!s85 0
+31
+R29
+R37
+R38
+!i113 1
+R9
+R10
+Xcf_math_pkg
+R0
+R23
+!i10b 1
+!s100 QcAWVUd3>H`Jc[58jH[FO1
+ICACJjTa`:[nWEK:9o2@>;1
+VCACJjTa`:[nWEK:9o2@>;1
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/cf_math_pkg.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/cf_math_pkg.sv
+Z39 L0 18
+R7
+r1
+!s85 0
+31
+R29
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/cf_math_pkg.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/cf_math_pkg.sv|
+!i113 1
+R9
+R10
+vclk_div
+R0
+R23
+!i10b 1
+!s100 VA2HW:]UEW;oNG9nHN@6g3
+IX:M:5AaZkiXIaV>TSK:R^3
+R3
+!s105 clk_div_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/clk_div.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/clk_div.sv
+Z40 L0 13
+R7
+r1
+!s85 0
+31
+R29
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/clk_div.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/clk_div.sv|
+!i113 1
+R9
+R10
+vcontrol_mvp
+R0
+Z41 DXx4 work 17 defs_div_sqrt_mvp 0 22 Z:FQ]OTXDB<ZD[h5c_V@51
+DXx4 work 19 control_mvp_sv_unit 0 22 ao@?K4[fRf5JjE5gAS1SN2
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 VBDV5Bn[F55lf:4cJlN<j1
+IYLXC`RIeR`BA234H[9?Me2
+!s105 control_mvp_sv_unit
+S1
+R4
+R5
+Z42 8C:/Users/natha/OneDrive/Documentos/nucleo_test/control_mvp.sv
+Z43 FC:/Users/natha/OneDrive/Documentos/nucleo_test/control_mvp.sv
+R20
+R7
+Z44 !s108 1675813146.000000
+Z45 !s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/control_mvp.sv|
+Z46 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/control_mvp.sv|
+!i113 1
+R9
+R10
+Xcontrol_mvp_sv_unit
+R0
+R41
+Vao@?K4[fRf5JjE5gAS1SN2
+r1
+!s85 0
+31
+!i10b 1
+!s100 YHL^m^T48J_R@]^lWbe:i2
+Iao@?K4[fRf5JjE5gAS1SN2
+!i103 1
+S1
+R4
+R5
+R42
+R43
+Z47 L0 41
+R7
+R44
+R45
+R46
+!i113 1
+R9
+R10
+vCoreTest
+R0
+R11
+Z48 DXx4 work 21 cv32e40p_apu_core_pkg 0 22 V8U_9jfX@doE5dHAU2`B_0
+R14
+!i10b 1
+!s100 WWk_D21iSh@N];T45GLR90
+IIo2SHhNgYifPECZN[0[<D3
+R3
+!s105 CoreTest_sv_unit
+S1
+R4
+w1675812987
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/CoreTest.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/CoreTest.sv
+L0 1
+R7
+r1
+!s85 0
+31
+Z49 !s108 1675813155.000000
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/CoreTest.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/CoreTest.sv|
+!i113 1
+R9
+R10
+n@core@test
+vcounter
+R0
+R23
+!i10b 1
+!s100 L5:>POKQQSkHn@7=Q:TN[0
+IH>1>Ff7?NFeG_gM_?E6E[1
+R3
+!s105 counter_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/counter.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/counter.sv
+R24
+R7
+r1
+!s85 0
+31
+R29
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/counter.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/counter.sv|
+!i113 1
+R9
+R10
+vcv32e40p_aligner
+R0
+Z50 !s110 1675813141
+!i10b 1
+!s100 :OcFbm]ZW^iBO>oLDZ4ME2
+I3EJDV_d^_zGFTiV0ZFQKL3
+R3
+!s105 cv32e40p_aligner_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_aligner.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_aligner.sv
+Z51 L0 23
+R7
+r1
+!s85 0
+31
+!s108 1675813140.000000
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_aligner.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_aligner.sv|
+!i113 1
+R9
+R10
+vcv32e40p_alu
+R0
+R11
+R50
+!i10b 1
+!s100 e8lzF?I?4YAm=1[@bVlj]1
+I6gB5=<b4[_RLak?RAA9DP0
+R3
+!s105 cv32e40p_alu_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_alu.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_alu.sv
+Z52 L0 28
+R7
+r1
+!s85 0
+31
+Z53 !s108 1675813141.000000
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_alu.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_alu.sv|
+!i113 1
+R9
+R10
+vcv32e40p_alu_div
+R0
+R50
+!i10b 1
+!s100 CP?oBJ^?DRU1NINjleYJM1
+IKJQj162>Ifg]<dijG?NLB2
+R3
+!s105 cv32e40p_alu_div_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_alu_div.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_alu_div.sv
+Z54 L0 26
+R7
+r1
+!s85 0
+31
+R53
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_alu_div.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_alu_div.sv|
+!i113 1
+R9
+R10
+Xcv32e40p_apu_core_pkg
+R0
+Z55 !s110 1675813145
+!i10b 1
+!s100 NDl`l@8h?PdG=CmcSff:13
+IV8U_9jfX@doE5dHAU2`B_0
+VV8U_9jfX@doE5dHAU2`B_0
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_apu_core_pkg.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_apu_core_pkg.sv
+R32
+R7
+r1
+!s85 0
+31
+Z56 !s108 1675813145.000000
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_apu_core_pkg.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_apu_core_pkg.sv|
+!i113 1
+R9
+R10
+vcv32e40p_apu_disp
+R0
+R50
+!i10b 1
+!s100 SZfF6`cEhA_:8UP[z?ifn3
+I4kKz8lFNGDcjaUG=<TR?o0
+R3
+!s105 cv32e40p_apu_disp_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_apu_disp.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_apu_disp.sv
+Z57 L0 25
+R7
+r1
+!s85 0
+31
+R53
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_apu_disp.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_apu_disp.sv|
+!i113 1
+R9
+R10
+vcv32e40p_compressed_decoder
+R0
+R11
+R50
+!i10b 1
+!s100 W8I4J]iBBi:`AV:A`VE[`0
+I5ZOYa>bc9a9^dPd=h5@ij1
+R3
+!s105 cv32e40p_compressed_decoder_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_compressed_decoder.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_compressed_decoder.sv
+Z58 L0 27
+R7
+r1
+!s85 0
+31
+R53
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_compressed_decoder.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_compressed_decoder.sv|
+!i113 1
+R9
+R10
+vcv32e40p_controller
+R0
+R11
+R50
+!i10b 1
+!s100 g16VlWl]Ha=nnP:IW^Lg^1
+I5X7GHC1@]HRziUBFI_lBY1
+R3
+!s105 cv32e40p_controller_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_controller.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_controller.sv
+Z59 L0 31
+R7
+r1
+!s85 0
+31
+R53
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_controller.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_controller.sv|
+!i113 1
+R9
+R10
+vcv32e40p_core
+R0
+R48
+R11
+R50
+!i10b 1
+!s100 Z[0LgalfekOl[nRnJY0eO0
+I8i^T3VOPzEDibTBWiLYZT0
+R3
+!s105 cv32e40p_core_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_core.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_core.sv
+R59
+R7
+r1
+!s85 0
+31
+R53
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_core.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_core.sv|
+!i113 1
+R9
+R10
+vcv32e40p_cs_registers
+R0
+R11
+Z60 !s110 1675813142
+!i10b 1
+!s100 ?10GcJU_f;@mY:M0:[iZA3
+Ib6ehDGgzTl1L;Q[VS6VP=3
+R3
+!s105 cv32e40p_cs_registers_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_cs_registers.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_cs_registers.sv
+R6
+R7
+r1
+!s85 0
+31
+R53
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_cs_registers.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_cs_registers.sv|
+!i113 1
+R9
+R10
+vcv32e40p_decoder
+R0
+R11
+R48
+Z61 DXx4 work 16 cv32e40p_fpu_pkg 0 22 zbOYb7=>4N1gmI9T=dIEO0
+R60
+!i10b 1
+!s100 dbe?49^@Ub3jE?47l7K0X0
+If`mnU5ED^U^3D4DJ1goCU1
+R3
+!s105 cv32e40p_decoder_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_decoder.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_decoder.sv
+R52
+R7
+r1
+!s85 0
+31
+Z62 !s108 1675813142.000000
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_decoder.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_decoder.sv|
+!i113 1
+R9
+R10
+vcv32e40p_ex_stage
+R0
+R11
+R48
+R60
+!i10b 1
+!s100 4_klMf?c;DYY6BLKC:NJK0
+IN8AG;mkWbnARVBZ73lc701
+R3
+!s105 cv32e40p_ex_stage_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_ex_stage.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_ex_stage.sv
+Z63 L0 32
+R7
+r1
+!s85 0
+31
+R62
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_ex_stage.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_ex_stage.sv|
+!i113 1
+R9
+R10
+vcv32e40p_ff_one
+R0
+R60
+!i10b 1
+!s100 DISP=I?N?[0W:JQlR[l^02
+I9LV@<1zYD0B2Hb1ATB5HI2
+R3
+!s105 cv32e40p_ff_one_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_ff_one.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_ff_one.sv
+R57
+R7
+r1
+!s85 0
+31
+R62
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_ff_one.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_ff_one.sv|
+!i113 1
+R9
+R10
+vcv32e40p_fifo
+R0
+R60
+!i10b 1
+!s100 Dcf>3ol0F]6DZZ<eHe2ZW3
+Ig]iKGgeMH<G;oEEnH?2jl2
+R3
+!s105 cv32e40p_fifo_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_fifo.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_fifo.sv
+R15
+R7
+r1
+!s85 0
+31
+R62
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_fifo.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_fifo.sv|
+!i113 1
+R9
+R10
+vcv32e40p_fp_wrapper
+R0
+R48
+R11
+Z64 DXx4 work 9 fpnew_pkg 0 22 4jzaYdKAD0]?;^nDFgB<E2
+Z65 !s110 1675813143
+!i10b 1
+!s100 Yo0CLYd4Y=znY3M;Ckanc3
+I]E;?CDcITnW:T[TW]9cKV3
+R3
+!s105 cv32e40p_fp_wrapper_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_fp_wrapper.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_fp_wrapper.sv
+R24
+R7
+r1
+!s85 0
+31
+R62
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_fp_wrapper.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_fp_wrapper.sv|
+!i113 1
+R9
+R10
+Xcv32e40p_fpu_pkg
+R0
+R55
+!i10b 1
+!s100 Te;JfC`gK9keGU?e0l<Jz2
+IzbOYb7=>4N1gmI9T=dIEO0
+VzbOYb7=>4N1gmI9T=dIEO0
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_fpu_pkg.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_fpu_pkg.sv
+Z66 L0 38
+R7
+r1
+!s85 0
+31
+R56
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_fpu_pkg.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_fpu_pkg.sv|
+!i113 1
+R9
+R10
+vcv32e40p_hwloop_regs
+R0
+R65
+!i10b 1
+!s100 [OfEPMoaY[WPgHj6dV5851
+IS:fclh1BEGX44o?HmL6VC0
+R3
+!s105 cv32e40p_hwloop_regs_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_hwloop_regs.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_hwloop_regs.sv
+R57
+R7
+r1
+!s85 0
+31
+Z67 !s108 1675813143.000000
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_hwloop_regs.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_hwloop_regs.sv|
+!i113 1
+R9
+R10
+vcv32e40p_id_stage
+R0
+R11
+R48
+R61
+R65
+!i10b 1
+!s100 <nYBVd]Jhb2;YoC[9D;Nf1
+IGXDQ>DJ5P<eD:5FPc84U@1
+R3
+!s105 cv32e40p_id_stage_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_id_stage.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_id_stage.sv
+R6
+R7
+r1
+!s85 0
+31
+R67
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_id_stage.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_id_stage.sv|
+!i113 1
+R9
+R10
+vcv32e40p_if_stage
+R0
+R11
+R65
+!i10b 1
+!s100 8Z@dZeBi^Rl<@Rc1<aGcG0
+I[SOVVmb]be_DBgKn29DHi3
+R3
+!s105 cv32e40p_if_stage_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_if_stage.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_if_stage.sv
+R52
+R7
+r1
+!s85 0
+31
+R67
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_if_stage.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_if_stage.sv|
+!i113 1
+R9
+R10
+vcv32e40p_int_controller
+R0
+R11
+R65
+!i10b 1
+!s100 Ae2CW;EJ1OD2dJOjPFHU?2
+I18Ql4]4b[Lnd5zEm=QzdE0
+R3
+!s105 cv32e40p_int_controller_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_int_controller.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_int_controller.sv
+L0 24
+R7
+r1
+!s85 0
+31
+R67
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_int_controller.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_int_controller.sv|
+!i113 1
+R9
+R10
+vcv32e40p_load_store_unit
+R0
+R65
+!i10b 1
+!s100 Kj=X^`dM6fQfS1h^]55]U0
+IBV9KPGhIQ04Wn[7V@P=AD0
+R3
+!s105 cv32e40p_load_store_unit_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_load_store_unit.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_load_store_unit.sv
+R54
+R7
+r1
+!s85 0
+31
+R67
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_load_store_unit.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_load_store_unit.sv|
+!i113 1
+R9
+R10
+vcv32e40p_mult
+R0
+R11
+Z68 !s110 1675813144
+!i10b 1
+!s100 ii4QSEzH=QkXlEifbOadM0
+I1dQ0iX859Sjm2fN>?R>_`2
+R3
+!s105 cv32e40p_mult_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_mult.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_mult.sv
+R54
+R7
+r1
+!s85 0
+31
+Z69 !s108 1675813144.000000
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_mult.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_mult.sv|
+!i113 1
+R9
+R10
+vcv32e40p_obi_interface
+R0
+R68
+!i10b 1
+!s100 ;j43IjE7k0jXc4[DgTLOK1
+I[X`:YB76T_K<habT>6mBd3
+R3
+!s105 cv32e40p_obi_interface_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_obi_interface.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_obi_interface.sv
+R66
+R7
+r1
+!s85 0
+31
+R69
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_obi_interface.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_obi_interface.sv|
+!i113 1
+R9
+R10
+Xcv32e40p_pkg
+R0
+R55
+!i10b 1
+!s100 PQ8egF4GFkZ[XE^M]T@7o2
+I]WZ^o;[=I:Mfi;z18kLVU2
+V]WZ^o;[=I:Mfi;z18kLVU2
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_pkg.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_pkg.sv
+R54
+R7
+r1
+!s85 0
+31
+R56
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_pkg.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_pkg.sv|
+!i113 1
+R9
+R10
+vcv32e40p_popcnt
+R0
+R68
+!i10b 1
+!s100 CdckWz9@N[iYgFzZXTmZ12
+Iz6HUNh:W]?z_UKNf1nJ]b2
+R3
+!s105 cv32e40p_popcnt_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_popcnt.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_popcnt.sv
+R57
+R7
+r1
+!s85 0
+31
+R69
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_popcnt.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_popcnt.sv|
+!i113 1
+R9
+R10
+vcv32e40p_prefetch_buffer
+R0
+R68
+!i10b 1
+!s100 RKmzboYDAYKUbfRH1^NmQ2
+IG>2Y6lQIG`e`205;zcMLH0
+R3
+!s105 cv32e40p_prefetch_buffer_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_prefetch_buffer.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_prefetch_buffer.sv
+R58
+R7
+r1
+!s85 0
+31
+R69
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_prefetch_buffer.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_prefetch_buffer.sv|
+!i113 1
+R9
+R10
+vcv32e40p_prefetch_controller
+R0
+R11
+R68
+!i10b 1
+!s100 JRAzK_@d6cA56QlOPl0Kz1
+IIFee;?zLPXXJznY=5K[`;3
+R3
+!s105 cv32e40p_prefetch_controller_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_prefetch_controller.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_prefetch_controller.sv
+Z70 L0 40
+R7
+r1
+!s85 0
+31
+R69
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_prefetch_controller.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_prefetch_controller.sv|
+!i113 1
+R9
+R10
+vcv32e40p_register_file
+R0
+R55
+!i10b 1
+!s100 0f91l][oW6n_jVMoA9L8l1
+IJl]6f8K6_GjI@@h>LHR6N2
+R3
+!s105 cv32e40p_register_file_latch_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_register_file_latch.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_register_file_latch.sv
+R63
+R7
+r1
+!s85 0
+31
+R69
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_register_file_latch.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_register_file_latch.sv|
+!i113 1
+R9
+R10
+vcv32e40p_sleep_unit
+R0
+R11
+R55
+!i10b 1
+!s100 j_`TXdZR74>oCbGTbb^k43
+I>E?HBIM:3IcB[KOWUcQF31
+R3
+!s105 cv32e40p_sleep_unit_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_sleep_unit.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_sleep_unit.sv
+L0 56
+R7
+r1
+!s85 0
+31
+R56
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_sleep_unit.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_sleep_unit.sv|
+!i113 1
+R9
+R10
+vcv32e40p_wrapper
+R0
+R48
+R55
+!i10b 1
+!s100 kh0H2<azJBj8_JlkLT]kU3
+I>bQg]=2FgOi]<SFi@Fk2c1
+R3
+!s105 cv32e40p_wrapper_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_wrapper.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_wrapper.sv
+R24
+R7
+r1
+!s85 0
+31
+R56
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_wrapper.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/cv32e40p_wrapper.sv|
+!i113 1
+R9
+R10
+Xdefs_div_sqrt_mvp
+R0
+Z71 !s110 1675813146
+!i10b 1
+!s100 :_GHi;Ub<JRMLO7ZAH<WY1
+IZ:FQ]OTXDB<ZD[h5c_V@51
+VZ:FQ]OTXDB<ZD[h5c_V@51
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/defs_div_sqrt_mvp.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/defs_div_sqrt_mvp.sv
+R24
+R7
+r1
+!s85 0
+31
+R44
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/defs_div_sqrt_mvp.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/defs_div_sqrt_mvp.sv|
+!i113 1
+R9
+R10
+vdelta_counter
+R0
+R23
+!i10b 1
+!s100 ]n=?G^<o?F_of4;7bnUci3
+IX9n7lRPb]eOOa@YT^UKj31
+R3
+!s105 delta_counter_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/delta_counter.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/delta_counter.sv
+R40
+R7
+r1
+!s85 0
+31
+R29
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/delta_counter.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/delta_counter.sv|
+!i113 1
+R9
+R10
+vdiv_sqrt_mvp_wrapper
+R0
+R41
+DXx4 work 28 div_sqrt_mvp_wrapper_sv_unit 0 22 _aBbi=eWaA^9UAWHWR;U53
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 i8DR4GRSTATT=eB=zEY213
+I6g30?X?Dj@;:Qlf8Y1X0m3
+!s105 div_sqrt_mvp_wrapper_sv_unit
+S1
+R4
+R5
+Z72 8C:/Users/natha/OneDrive/Documentos/nucleo_test/div_sqrt_mvp_wrapper.sv
+Z73 FC:/Users/natha/OneDrive/Documentos/nucleo_test/div_sqrt_mvp_wrapper.sv
+R47
+R7
+R44
+Z74 !s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/div_sqrt_mvp_wrapper.sv|
+Z75 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/div_sqrt_mvp_wrapper.sv|
+!i113 1
+R9
+R10
+Xdiv_sqrt_mvp_wrapper_sv_unit
+R0
+R41
+V_aBbi=eWaA^9UAWHWR;U53
+r1
+!s85 0
+31
+!i10b 1
+!s100 0agUbc9WEMkY@6jdmWTce1
+I_aBbi=eWaA^9UAWHWR;U53
+!i103 1
+S1
+R4
+R5
+R72
+R73
+Z76 L0 39
+R7
+R44
+R74
+R75
+!i113 1
+R9
+R10
+vdiv_sqrt_top_mvp
+R0
+R41
+DXx4 work 24 div_sqrt_top_mvp_sv_unit 0 22 YGaeE1R2iLh]_gjIzen2T1
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 Y^_S=7AW49:lATZmbzml90
+IeRG=eVhF2_Y8VR`4n8TGQ0
+!s105 div_sqrt_top_mvp_sv_unit
+S1
+R4
+R5
+Z77 8C:/Users/natha/OneDrive/Documentos/nucleo_test/div_sqrt_top_mvp.sv
+Z78 FC:/Users/natha/OneDrive/Documentos/nucleo_test/div_sqrt_top_mvp.sv
+Z79 L0 37
+R7
+R56
+Z80 !s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/div_sqrt_top_mvp.sv|
+Z81 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/div_sqrt_top_mvp.sv|
+!i113 1
+R9
+R10
+Xdiv_sqrt_top_mvp_sv_unit
+R0
+R41
+VYGaeE1R2iLh]_gjIzen2T1
+r1
+!s85 0
+31
+!i10b 1
+!s100 4]QI0251eWbP?9zaZ9V6R0
+IYGaeE1R2iLh]_gjIzen2T1
+!i103 1
+S1
+R4
+R5
+R77
+R78
+Z82 L0 35
+R7
+R56
+R80
+R81
+!i113 1
+R9
+R10
+vecc_decode
+R0
+Z83 DXx4 work 7 ecc_pkg 0 22 Eh?iU<Qml@f:HKL^bJ@d32
+R23
+!i10b 1
+!s100 ggQi;mDn]]Yb1jcmYhzAE1
+Ie76^Z;63fRoT`Sl=OcU;z1
+R3
+!s105 ecc_decode_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/ecc_decode.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/ecc_decode.sv
+L0 29
+R7
+r1
+!s85 0
+31
+R29
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/ecc_decode.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/ecc_decode.sv|
+!i113 1
+R9
+R10
+vecc_encode
+R0
+R83
+R23
+!i10b 1
+!s100 1`ZQ3RH_k[<>DIaQSlUzU2
+Im=3jNJEVUKOe4zj<N=JgV2
+R3
+!s105 ecc_encode_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/ecc_encode.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/ecc_encode.sv
+R32
+R7
+r1
+!s85 0
+31
+R29
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/ecc_encode.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/ecc_encode.sv|
+!i113 1
+R9
+R10
+Xecc_pkg
+R0
+Z84 !s110 1675813150
+!i10b 1
+!s100 zZ0T]MVS`1oOOTTd[klW60
+IEh?iU<Qml@f:HKL^bJ@d32
+VEh?iU<Qml@f:HKL^bJ@d32
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/ecc_pkg.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/ecc_pkg.sv
+R15
+R7
+r1
+!s85 0
+31
+R29
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/ecc_pkg.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/ecc_pkg.sv|
+!i113 1
+R9
+R10
+vedge_detect
+R0
+R84
+!i10b 1
+!s100 ^N?4RH2P0NMPQ75@T6kM10
+IFnU<Hc8jH1mV1nSz;]^MH2
+R3
+!s105 edge_detect_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/edge_detect.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/edge_detect.sv
+R24
+R7
+r1
+!s85 0
+31
+Z85 !s108 1675813150.000000
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/edge_detect.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/edge_detect.sv|
+!i113 1
+R9
+R10
+vedge_propagator
+R0
+R84
+!i10b 1
+!s100 0=3YY5Xh;=YKK]=ab?h`o1
+IJG8do^nHCCjzlMI?ddgKP2
+R3
+!s105 edge_propagator_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/edge_propagator.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/edge_propagator.sv
+R40
+R7
+r1
+!s85 0
+31
+R85
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/edge_propagator.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/edge_propagator.sv|
+!i113 1
+R9
+R10
+vedge_propagator_rx
+R0
+R84
+!i10b 1
+!s100 OOOm?hiFLiDii1ACm6h6?0
+I8^:P]z0Uj@V?SM[4:SIS23
+R3
+!s105 edge_propagator_rx_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/edge_propagator_rx.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/edge_propagator_rx.sv
+R40
+R7
+r1
+!s85 0
+31
+R85
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/edge_propagator_rx.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/edge_propagator_rx.sv|
+!i113 1
+R9
+R10
+vedge_propagator_tx
+R0
+R84
+!i10b 1
+!s100 K0?8GH?lRM2n:LR9BOC6A3
+ILEU]`Y6B>Y3BD5mX9<[O23
+R3
+!s105 edge_propagator_tx_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/edge_propagator_tx.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/edge_propagator_tx.sv
+R40
+R7
+r1
+!s85 0
+31
+R85
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/edge_propagator_tx.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/edge_propagator_tx.sv|
+!i113 1
+R9
+R10
+vexp_backoff
+R0
+R84
+!i10b 1
+!s100 4Jj1Wg`f8=>g:P7c8mIah2
+I[NNaV8[0NRGH@AgNAg[o33
+R3
+!s105 exp_backoff_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/exp_backoff.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/exp_backoff.sv
+R51
+R7
+r1
+!s85 0
+31
+R85
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/exp_backoff.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/exp_backoff.sv|
+!i113 1
+R9
+R10
+vfall_through_register
+R0
+R84
+!i10b 1
+!s100 Xl1GT^Idi=?1gF?PZCHdG1
+ITaD[PdZdPaIGDBni74iNS2
+R3
+!s105 fall_through_register_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/fall_through_register.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/fall_through_register.sv
+R15
+R7
+r1
+!s85 0
+31
+R85
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/fall_through_register.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/fall_through_register.sv|
+!i113 1
+R9
+R10
+vfifo_v3
+R0
+R84
+!i10b 1
+!s100 UAX:Z^VQ23C3`CBGj7=3^3
+IKc`PhdgBNElHQ>=e1W]i70
+R3
+!s105 fifo_v3_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/fifo_v3.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/fifo_v3.sv
+R40
+R7
+r1
+!s85 0
+31
+R85
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/fifo_v3.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/fifo_v3.sv|
+!i113 1
+R9
+R10
+vfpnew_cast_multi
+R0
+R64
+R2
+!i10b 1
+!s100 5iCEW^FGFA5QN7Zj57TKA0
+IB2mPABU[UoOZ3fc4?N:OA3
+R3
+!s105 fpnew_cast_multi_sv_unit
+S1
+R4
+w1674951951
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/fpnew_cast_multi.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/fpnew_cast_multi.sv
+R39
+R7
+r1
+!s85 0
+31
+R8
+!s107 registers.svh|C:/Users/natha/OneDrive/Documentos/nucleo_test/fpnew_cast_multi.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/fpnew_cast_multi.sv|
+!i113 1
+R9
+R10
+vfpnew_classifier
+R0
+R64
+R2
+!i10b 1
+!s100 MJ[dm?C@JH]8?F]@FdVLE0
+IW1dhWS08=EWj0HP:zVDeI0
+R3
+!s105 fpnew_classifier_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/fpnew_classifier.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/fpnew_classifier.sv
+Z86 L0 16
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/fpnew_classifier.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/fpnew_classifier.sv|
+!i113 1
+R9
+R10
+vfpnew_divsqrt_multi
+R0
+R64
+R2
+!i10b 1
+!s100 0V@XiT9jlgn3Gn1mJJ61P3
+IJB_8M0Lf>PQ6e>M84Y;Ue1
+R3
+!s105 fpnew_divsqrt_multi_sv_unit
+S1
+R4
+w1674951942
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/fpnew_divsqrt_multi.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/fpnew_divsqrt_multi.sv
+R39
+R7
+r1
+!s85 0
+31
+R8
+!s107 registers.svh|C:/Users/natha/OneDrive/Documentos/nucleo_test/fpnew_divsqrt_multi.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/fpnew_divsqrt_multi.sv|
+!i113 1
+R9
+R10
+vfpnew_fma
+R0
+R64
+Z87 !s110 1675813147
+!i10b 1
+!s100 Yb=SVEX;S>==:5d1FdZ]:0
+I;lhWPgISSVd[jj6GdD49n2
+R3
+!s105 fpnew_fma_sv_unit
+S1
+R4
+w1674951985
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/fpnew_fma.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/fpnew_fma.sv
+R39
+R7
+r1
+!s85 0
+31
+Z88 !s108 1675813147.000000
+!s107 registers.svh|C:/Users/natha/OneDrive/Documentos/nucleo_test/fpnew_fma.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/fpnew_fma.sv|
+!i113 1
+R9
+R10
+vfpnew_fma_multi
+R0
+R64
+R87
+!i10b 1
+!s100 AzE:FT6kdjKVGml^16j@[0
+Inb`YcTcI@mL7c=CYW7=DR0
+R3
+!s105 fpnew_fma_multi_sv_unit
+S1
+R4
+w1674951976
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/fpnew_fma_multi.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/fpnew_fma_multi.sv
+R39
+R7
+r1
+!s85 0
+31
+R88
+!s107 registers.svh|C:/Users/natha/OneDrive/Documentos/nucleo_test/fpnew_fma_multi.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/fpnew_fma_multi.sv|
+!i113 1
+R9
+R10
+vfpnew_noncomp
+R0
+R64
+R87
+!i10b 1
+!s100 5TXFT69zWdKFMcaO:QSXN0
+Ia<GU=0fTFz6ael[7j8[581
+R3
+!s105 fpnew_noncomp_sv_unit
+S1
+R4
+w1674951967
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/fpnew_noncomp.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/fpnew_noncomp.sv
+R39
+R7
+r1
+!s85 0
+31
+R88
+!s107 registers.svh|C:/Users/natha/OneDrive/Documentos/nucleo_test/fpnew_noncomp.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/fpnew_noncomp.sv|
+!i113 1
+R9
+R10
+vfpnew_opgroup_block
+R0
+R64
+R87
+!i10b 1
+!s100 4Z6?i;KRLY92D91ML9iCV2
+IcV<0l`5SQMANmhVDknAh_2
+R3
+!s105 fpnew_opgroup_block_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/fpnew_opgroup_block.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/fpnew_opgroup_block.sv
+R86
+R7
+r1
+!s85 0
+31
+R88
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/fpnew_opgroup_block.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/fpnew_opgroup_block.sv|
+!i113 1
+R9
+R10
+vfpnew_opgroup_fmt_slice
+R0
+R64
+R12
+!i10b 1
+!s100 I2?e47<mAdAmcIlGGimh10
+IM3XZz@EjB5RJD8>z5`CEY2
+R3
+!s105 fpnew_opgroup_fmt_slice_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/fpnew_opgroup_fmt_slice.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/fpnew_opgroup_fmt_slice.sv
+R86
+R7
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/fpnew_opgroup_fmt_slice.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/fpnew_opgroup_fmt_slice.sv|
+!i113 1
+R9
+R10
+vfpnew_opgroup_multifmt_slice
+R0
+R64
+R12
+!i10b 1
+!s100 mSbA[BBA=H3hMW85ISXRb3
+IKaKn4nQ?]n=Fd_O^cN@8[1
+R3
+!s105 fpnew_opgroup_multifmt_slice_sv_unit
+S1
+R4
+w1674951813
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/fpnew_opgroup_multifmt_slice.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/fpnew_opgroup_multifmt_slice.sv
+R39
+R7
+r1
+!s85 0
+31
+R13
+!s107 registers.svh|C:/Users/natha/OneDrive/Documentos/nucleo_test/fpnew_opgroup_multifmt_slice.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/fpnew_opgroup_multifmt_slice.sv|
+!i113 1
+R9
+R10
+Xfpnew_pkg
+R0
+R87
+!i10b 1
+!s100 cJU6z2>ch:gT5XSEnb`813
+I4jzaYdKAD0]?;^nDFgB<E2
+V4jzaYdKAD0]?;^nDFgB<E2
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/fpnew_pkg.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/fpnew_pkg.sv
+R86
+R7
+r1
+!s85 0
+31
+R88
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/fpnew_pkg.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/fpnew_pkg.sv|
+!i113 1
+R9
+R10
+vfpnew_rounding
+R0
+R64
+R87
+!i10b 1
+!s100 P7RXOgfZnO8Xz53g8OfiR3
+IC^cE0oigNaeF3ESi?@0jH1
+R3
+!s105 fpnew_rounding_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/fpnew_rounding.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/fpnew_rounding.sv
+R86
+R7
+r1
+!s85 0
+31
+R88
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/fpnew_rounding.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/fpnew_rounding.sv|
+!i113 1
+R9
+R10
+vfpnew_top
+R0
+R64
+R2
+!i10b 1
+!s100 [X[:7cPSg^iC>[N^YhY2K0
+If?>kZS6@?<dXe<FHNkQa20
+R3
+!s105 fpnew_top_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/fpnew_top.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/fpnew_top.sv
+R86
+R7
+r1
+!s85 0
+31
+R88
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/fpnew_top.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/fpnew_top.sv|
+!i113 1
+R9
+R10
+vgray_to_binary
+R0
+R84
+!i10b 1
+!s100 RH_W?kCBLJObQO`;;MXDl0
+II;mgEfKZ6k[2Q4zkfokX23
+R3
+!s105 gray_to_binary_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/gray_to_binary.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/gray_to_binary.sv
+R15
+R7
+r1
+!s85 0
+31
+R85
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/gray_to_binary.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/gray_to_binary.sv|
+!i113 1
+R9
+R10
+vhash_block
+R0
+R16
+R2
+!i10b 1
+!s100 0][C]ZQNQL8zZSlQcaDWW0
+I^T_EgaioUJgFX7]<RTQP81
+R3
+R17
+S1
+R4
+R5
+R18
+R19
+L0 201
+R7
+r1
+!s85 0
+31
+R8
+R21
+R22
+!i113 1
+R9
+R10
+vid_queue
+R0
+R1
+!s110 1675813617
+!i10b 1
+!s100 XnO`M3fPDL2Qm^lfoU96E2
+IYD]3QJz[2i[FjIi]MJFQR2
+R3
+!s105 id_queue_sv_unit
+S1
+R4
+w1675813613
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/id_queue.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/id_queue.sv
+R20
+R7
+r1
+!s85 0
+31
+!s108 1675813617.000000
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/id_queue.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/id_queue.sv|
+!i113 1
+R9
+R10
+visochronous_spill_register
+R0
+Z89 !s110 1675813151
+!i10b 1
+!s100 o6?ocOC5[Ja1fz7S?JO>]2
+IHLE<jFjM6cPZ1191CAO`E2
+R3
+!s105 isochronous_spill_register_sv_unit
+S1
+R4
+w1674951874
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/isochronous_spill_register.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/isochronous_spill_register.sv
+R6
+R7
+r1
+!s85 0
+31
+Z90 !s108 1675813151.000000
+!s107 registers.svh|C:/Users/natha/OneDrive/Documentos/nucleo_test/isochronous_spill_register.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/isochronous_spill_register.sv|
+!i113 1
+R9
+R10
+viteration_div_sqrt_mvp
+R0
+R71
+!i10b 1
+!s100 Xn^?lTV=7>o>G[i1=HEHT2
+Ic^7cCK8Xee5g7^z_gER>T0
+R3
+!s105 iteration_div_sqrt_mvp_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/iteration_div_sqrt_mvp.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/iteration_div_sqrt_mvp.sv
+R63
+R7
+r1
+!s85 0
+31
+R56
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/iteration_div_sqrt_mvp.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/iteration_div_sqrt_mvp.sv|
+!i113 1
+R9
+R10
+vlfsr
+R0
+R89
+!i10b 1
+!s100 bhZHdHW[e[V8JEi>zZ]@M1
+I:KYZ^l]LBdB<QKzagG8?23
+R3
+!s105 lfsr_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/lfsr.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/lfsr.sv
+R32
+R7
+r1
+!s85 0
+31
+R90
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/lfsr.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/lfsr.sv|
+!i113 1
+R9
+R10
+vlfsr_16bit
+R0
+R89
+!i10b 1
+!s100 MSh>2f:=lTLOLm:^eT@MP3
+IKTMKX[RajeOBfcV_[DibP0
+R3
+!s105 lfsr_16bit_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/lfsr_16bit.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/lfsr_16bit.sv
+L0 21
+R7
+r1
+!s85 0
+31
+R90
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/lfsr_16bit.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/lfsr_16bit.sv|
+!i113 1
+R9
+R10
+vlfsr_8bit
+R0
+R89
+!i10b 1
+!s100 5K0W;7WR^BGDfdj0]IKDZ1
+IHD1D4<;Pm]R]@B1i<2XRC3
+R3
+!s105 lfsr_8bit_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/lfsr_8bit.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/lfsr_8bit.sv
+Z91 L0 17
+R7
+r1
+!s85 0
+31
+R90
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/lfsr_8bit.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/lfsr_8bit.sv|
+!i113 1
+R9
+R10
+vlzc
+R0
+R1
+R89
+!i10b 1
+!s100 ;N^J@dd4l]d@[_Dz`Dc5K2
+I]L8@D_;[0YR?jemQAf;0T2
+R3
+!s105 lzc_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/lzc.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/lzc.sv
+R57
+R7
+r1
+!s85 0
+31
+R90
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/lzc.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/lzc.sv|
+!i113 1
+R9
+R10
+vmax_counter
+R0
+R89
+!i10b 1
+!s100 S>[d6ROQP1VP[3QYiQ9TJ1
+IF@n`dnA`S5WiSo4mg9QVG0
+R3
+!s105 max_counter_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/max_counter.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/max_counter.sv
+R40
+R7
+r1
+!s85 0
+31
+R90
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/max_counter.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/max_counter.sv|
+!i113 1
+R9
+R10
+vMemoria32
+R0
+R14
+!i10b 1
+!s100 Q2gmKA>Pd1H;3=f[e^lb[3
+I6XONa1h4:gH>^a>bB>2[51
+R3
+!s105 Memoria32_sv_unit
+S1
+R4
+Z92 w1675206241
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/Memoria32.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/Memoria32.sv
+R54
+R7
+r1
+!s85 0
+31
+R49
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/Memoria32.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/Memoria32.sv|
+!i113 1
+R9
+R10
+n@memoria32
+vmv_filter
+R0
+R89
+!i10b 1
+!s100 fW=;AHE8=CgVQ:0<][MPl2
+IaN6P_[6:a4KYWPQe72Y4P2
+R3
+!s105 mv_filter_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/mv_filter.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/mv_filter.sv
+R40
+R7
+r1
+!s85 0
+31
+R90
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/mv_filter.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/mv_filter.sv|
+!i113 1
+R9
+R10
+vnorm_div_sqrt_mvp
+R0
+R41
+DXx4 work 25 norm_div_sqrt_mvp_sv_unit 0 22 f?6K2V8aDSI5H<3B<EjGj0
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 0ReT7YZ_P6k7GCfz;hV_l3
+I@PUQc6C0i3n<ka_N[BREI1
+!s105 norm_div_sqrt_mvp_sv_unit
+S1
+R4
+R5
+Z93 8C:/Users/natha/OneDrive/Documentos/nucleo_test/norm_div_sqrt_mvp.sv
+Z94 FC:/Users/natha/OneDrive/Documentos/nucleo_test/norm_div_sqrt_mvp.sv
+L0 46
+R7
+R44
+Z95 !s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/norm_div_sqrt_mvp.sv|
+Z96 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/norm_div_sqrt_mvp.sv|
+!i113 1
+R9
+R10
+Xnorm_div_sqrt_mvp_sv_unit
+R0
+R41
+Vf?6K2V8aDSI5H<3B<EjGj0
+r1
+!s85 0
+31
+!i10b 1
+!s100 _h^GB>=gRf>TCXi58YnWW3
+If?6K2V8aDSI5H<3B<EjGj0
+!i103 1
+S1
+R4
+R5
+R93
+R94
+L0 44
+R7
+R44
+R95
+R96
+!i113 1
+R9
+R10
+vnrbd_nrsc_mvp
+R0
+R41
+DXx4 work 21 nrbd_nrsc_mvp_sv_unit 0 22 EzzAIM=VlOh0bH`8zY5f?2
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 ziFEoI_DlnN>C4fEELoFE3
+Ii[]AChjU44jm^CUd[>4fn3
+!s105 nrbd_nrsc_mvp_sv_unit
+S1
+R4
+R5
+Z97 8C:/Users/natha/OneDrive/Documentos/nucleo_test/nrbd_nrsc_mvp.sv
+Z98 FC:/Users/natha/OneDrive/Documentos/nucleo_test/nrbd_nrsc_mvp.sv
+L0 36
+R7
+R44
+Z99 !s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/nrbd_nrsc_mvp.sv|
+Z100 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/nrbd_nrsc_mvp.sv|
+!i113 1
+R9
+R10
+Xnrbd_nrsc_mvp_sv_unit
+R0
+R41
+VEzzAIM=VlOh0bH`8zY5f?2
+r1
+!s85 0
+31
+!i10b 1
+!s100 W9UJHlGmzj3[2V>7QMFTX0
+IEzzAIM=VlOh0bH`8zY5f?2
+!i103 1
+S1
+R4
+R5
+R97
+R98
+L0 34
+R7
+R44
+R99
+R100
+!i113 1
+R9
+R10
+vonehot_to_bin
+R0
+R89
+!i10b 1
+!s100 OKKE1=fZY;Fb=NYE8Ahi31
+I55=cnj^2=>h9:1EfR1SK>0
+R3
+!s105 onehot_to_bin_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/onehot_to_bin.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/onehot_to_bin.sv
+R40
+R7
+r1
+!s85 0
+31
+R90
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/onehot_to_bin.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/onehot_to_bin.sv|
+!i113 1
+R9
+R10
+vplru_tree
+R0
+R89
+!i10b 1
+!s100 OkzSZdCKiPm0kTCLiQKFa1
+IoKNa7Dhe@cm@F5o?ZdEg12
+R3
+!s105 plru_tree_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/plru_tree.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/plru_tree.sv
+R91
+R7
+r1
+!s85 0
+31
+R90
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/plru_tree.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/plru_tree.sv|
+!i113 1
+R9
+R10
+vpopcount
+R0
+R89
+!i10b 1
+!s100 d02:2?U^DR^[mUb9k6>W;0
+IzTWNDeHkJH]acbZ9eBYgZ2
+R3
+!s105 popcount_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/popcount.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/popcount.sv
+R28
+R7
+r1
+!s85 0
+31
+R90
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/popcount.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/popcount.sv|
+!i113 1
+R9
+R10
+vpreprocess_mvp
+R0
+R41
+DXx4 work 22 preprocess_mvp_sv_unit 0 22 ShKF[I;@TYlY:KU1[bGan2
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 PB1>TS:ozf7jZ30IlOhIT1
+I5GS?6JnBQFPQQ^TLWV]jl0
+!s105 preprocess_mvp_sv_unit
+S1
+R4
+R5
+Z101 8C:/Users/natha/OneDrive/Documentos/nucleo_test/preprocess_mvp.sv
+Z102 FC:/Users/natha/OneDrive/Documentos/nucleo_test/preprocess_mvp.sv
+R79
+R7
+R44
+Z103 !s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/preprocess_mvp.sv|
+Z104 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/preprocess_mvp.sv|
+!i113 1
+R9
+R10
+Xpreprocess_mvp_sv_unit
+R0
+R41
+VShKF[I;@TYlY:KU1[bGan2
+r1
+!s85 0
+31
+!i10b 1
+!s100 k9PLHFm<_UkM20B:I^ZI:1
+IShKF[I;@TYlY:KU1[bGan2
+!i103 1
+S1
+R4
+R5
+R101
+R102
+R82
+R7
+R44
+R103
+R104
+!i113 1
+R9
+R10
+vramOnChip32
+R14
+!i10b 1
+!s100 UaK7Z2?CFjC?UDMYYFK;A0
+IcKiO?nh=Kf<CifPe>OQY=1
+R3
+R4
+R92
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/ramOnChip32.v
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/ramOnChip32.v
+R70
+R7
+r1
+!s85 0
+31
+R49
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/ramOnChip32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/ramOnChip32.v|
+!i113 1
+o-work work
+R10
+nram@on@chip32
+vrr_arb_tree
+R0
+Z105 !s110 1675813152
+!i10b 1
+!s100 K<dRLiBRCIa^gV[lGcD;E3
+IdlJ9MLYBOf5lmOM;TR1H^3
+R3
+!s105 rr_arb_tree_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/rr_arb_tree.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/rr_arb_tree.sv
+L0 47
+R7
+r1
+!s85 0
+31
+R90
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/rr_arb_tree.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/rr_arb_tree.sv|
+!i113 1
+R9
+R10
+vrstgen
+R0
+R105
+!i10b 1
+!s100 KUWNhm>d<WM]DidFi8@6@1
+IhJHfFOc:60EPXgg8oaXDg0
+R3
+!s105 rstgen_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/rstgen.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/rstgen.sv
+R40
+R7
+r1
+!s85 0
+31
+Z106 !s108 1675813152.000000
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/rstgen.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/rstgen.sv|
+!i113 1
+R9
+R10
+vrstgen_bypass
+R0
+R105
+!i10b 1
+!s100 5oI8MAnAkVg?n2Edbi1323
+IKE]0VjnDbZVGhLGI]V=070
+R3
+!s105 rstgen_bypass_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/rstgen_bypass.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/rstgen_bypass.sv
+R15
+R7
+r1
+!s85 0
+31
+R106
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/rstgen_bypass.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/rstgen_bypass.sv|
+!i113 1
+R9
+R10
+vserial_deglitch
+R0
+R105
+!i10b 1
+!s100 j:McILPzgXQl<^^7J2I<e0
+I5DC;04bLa01R[T_VPCKPh0
+R3
+!s105 serial_deglitch_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/serial_deglitch.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/serial_deglitch.sv
+R15
+R7
+r1
+!s85 0
+31
+R106
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/serial_deglitch.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/serial_deglitch.sv|
+!i113 1
+R9
+R10
+vshift_reg
+R0
+R105
+!i10b 1
+!s100 `_<oj?[IgQTczCiDJEf<83
+IL<_]zPG6:VQ@7]^5lQfI11
+R3
+!s105 shift_reg_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/shift_reg.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/shift_reg.sv
+R86
+R7
+r1
+!s85 0
+31
+R106
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/shift_reg.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/shift_reg.sv|
+!i113 1
+R9
+R10
+vsimulacao32
+R0
+R14
+!i10b 1
+!s100 k]HKnMdWkcWTh>_2BZ^0n1
+IOU5zGRLIdYo]Cb0:Hfd391
+R3
+!s105 simulacao32_sv_unit
+S1
+R4
+w1675207080
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/simulacao32.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/simulacao32.sv
+L0 3
+R7
+r1
+!s85 0
+31
+R49
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/simulacao32.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/simulacao32.sv|
+!i113 1
+R9
+R10
+vspill_register
+R0
+R105
+!i10b 1
+!s100 ^bII`dXBGH^N@no[bIgSA3
+ITILUF^0VN;^5OE@?PWf6H3
+R3
+!s105 spill_register_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/spill_register.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/spill_register.sv
+R91
+R7
+r1
+!s85 0
+31
+R106
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/spill_register.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/spill_register.sv|
+!i113 1
+R9
+R10
+vstream_arbiter
+R0
+R105
+!i10b 1
+!s100 6i[PVE;B@V4Vd<DSAa6S52
+I@T_;5eQ]U<:>i`J^d>k[g1
+R3
+!s105 stream_arbiter_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/stream_arbiter.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/stream_arbiter.sv
+R86
+R7
+r1
+!s85 0
+31
+R106
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/stream_arbiter.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/stream_arbiter.sv|
+!i113 1
+R9
+R10
+vstream_arbiter_flushable
+R0
+R105
+!i10b 1
+!s100 HC<QlGFLoZBGkg;YEj^<C3
+IXU7S8M6aA9:kacOBC1U[R1
+R3
+!s105 stream_arbiter_flushable_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/stream_arbiter_flushable.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/stream_arbiter_flushable.sv
+R86
+R7
+r1
+!s85 0
+31
+R106
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/stream_arbiter_flushable.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/stream_arbiter_flushable.sv|
+!i113 1
+R9
+R10
+vstream_delay
+R0
+R105
+!i10b 1
+!s100 1P3]3=9Z1ZEO5bQ4P`DRX3
+ITU05z>d28b[g3cM03TNcS2
+R3
+!s105 stream_delay_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/stream_delay.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/stream_delay.sv
+R24
+R7
+r1
+!s85 0
+31
+R106
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/stream_delay.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/stream_delay.sv|
+!i113 1
+R9
+R10
+vstream_demux
+R0
+R105
+!i10b 1
+!s100 JlMk>PFNU8N3fa`CUTESU0
+In4dTC]_AU59Ub<1fHa4^K0
+R3
+!s105 stream_demux_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/stream_demux.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/stream_demux.sv
+R15
+R7
+r1
+!s85 0
+31
+R106
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/stream_demux.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/stream_demux.sv|
+!i113 1
+R9
+R10
+YSTREAM_DV
+R0
+Z107 !s110 1675813153
+!i10b 1
+!s100 FFoQ;P8;JbJbG1PX4aT?T3
+IX<660Im<H?CAB_hj=LYC:0
+R3
+!s105 stream_intf_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/stream_intf.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/stream_intf.sv
+R86
+R7
+r1
+!s85 0
+31
+Z108 !s108 1675813153.000000
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/stream_intf.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/stream_intf.sv|
+!i113 1
+R9
+R10
+n@s@t@r@e@a@m_@d@v
+vstream_fifo
+R0
+R107
+!i10b 1
+!s100 kgTFNjSIiFjQd[O5jIl9f1
+Iao;zb@P84MOD<@7463j]21
+R3
+!s105 stream_fifo_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/stream_fifo.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/stream_fifo.sv
+R40
+R7
+r1
+!s85 0
+31
+R106
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/stream_fifo.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/stream_fifo.sv|
+!i113 1
+R9
+R10
+vstream_filter
+R0
+R107
+!i10b 1
+!s100 Z_A>bD?g4@KA];0fz:27C3
+IBd_BljjMH_dJS:gcM;J?F2
+R3
+!s105 stream_filter_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/stream_filter.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/stream_filter.sv
+R40
+R7
+r1
+!s85 0
+31
+R108
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/stream_filter.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/stream_filter.sv|
+!i113 1
+R9
+R10
+vstream_fork
+R0
+R107
+!i10b 1
+!s100 jUeMf66I_^PHaA__PmDCC0
+IM<;HPB6TCLSWoCfoG]2Pi3
+R3
+!s105 stream_fork_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/stream_fork.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/stream_fork.sv
+R28
+R7
+r1
+!s85 0
+31
+R108
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/stream_fork.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/stream_fork.sv|
+!i113 1
+R9
+R10
+vstream_fork_dynamic
+R0
+R107
+!i10b 1
+!s100 Ic1bXiWIJn;4ml4PJ[J0C2
+I?19CQDjcDR<U3hbEA9Dm92
+R3
+!s105 stream_fork_dynamic_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/stream_fork_dynamic.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/stream_fork_dynamic.sv
+R32
+R7
+r1
+!s85 0
+31
+R108
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/stream_fork_dynamic.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/stream_fork_dynamic.sv|
+!i113 1
+R9
+R10
+vstream_join
+R0
+R107
+!i10b 1
+!s100 DD=VVmBJ]:Z04Bh1PQJV91
+IbHnR80Q0ha5M2e`@Ik5cd0
+R3
+!s105 stream_join_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/stream_join.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/stream_join.sv
+R91
+R7
+r1
+!s85 0
+31
+R108
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/stream_join.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/stream_join.sv|
+!i113 1
+R9
+R10
+vstream_mux
+R0
+R107
+!i10b 1
+!s100 EYz2@>Fo=KH09Gj2AgLCQ2
+IZRU7bZgPD;AE``CT^GOCd2
+R3
+!s105 stream_mux_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/stream_mux.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/stream_mux.sv
+R24
+R7
+r1
+!s85 0
+31
+R108
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/stream_mux.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/stream_mux.sv|
+!i113 1
+R9
+R10
+vstream_omega_net
+R0
+R1
+R107
+!i10b 1
+!s100 Q7]iCj7LGBKG;PlAK52E22
+I1LAbcQ=6ZMa?bLUzng5H12
+R3
+!s105 stream_omega_net_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/stream_omega_net.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/stream_omega_net.sv
+R39
+R7
+r1
+!s85 0
+31
+R108
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/stream_omega_net.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/stream_omega_net.sv|
+!i113 1
+R9
+R10
+vstream_register
+R0
+R107
+!i10b 1
+!s100 8zDaP6_`;:hmjZMgmK0hb0
+I6dM`3P`RY@daBR0=VN`2I0
+R3
+!s105 stream_register_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/stream_register.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/stream_register.sv
+R24
+R7
+r1
+!s85 0
+31
+R108
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/stream_register.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/stream_register.sv|
+!i113 1
+R9
+R10
+vstream_to_mem
+R0
+R107
+!i10b 1
+!s100 ;fO3HV9b0]J_EfHH3CR5>3
+I@j6diFQhE^=oK8eXZm2301
+R3
+!s105 stream_to_mem_sv_unit
+S1
+R4
+w1674951855
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/stream_to_mem.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/stream_to_mem.sv
+R91
+R7
+r1
+!s85 0
+31
+R108
+!s107 registers.svh|C:/Users/natha/OneDrive/Documentos/nucleo_test/stream_to_mem.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/stream_to_mem.sv|
+!i113 1
+R9
+R10
+vstream_xbar
+R0
+R12
+!i10b 1
+!s100 dX=0Xk>M1DYCDjO]HD0bU2
+Ig4APjd@8RJnZD<SL5`dSJ3
+R3
+!s105 stream_xbar_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/stream_xbar.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/stream_xbar.sv
+R86
+R7
+r1
+!s85 0
+31
+R108
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/stream_xbar.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/stream_xbar.sv|
+!i113 1
+R9
+R10
+vsub_per_hash
+R0
+R12
+!i10b 1
+!s100 FY_zOUkF]j>__BnH2@ZWm2
+IXS9>jfLVF<l@TE5LR1eL>1
+R3
+!s105 sub_per_hash_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/sub_per_hash.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/sub_per_hash.sv
+R76
+R7
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/sub_per_hash.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/sub_per_hash.sv|
+!i113 1
+R9
+R10
+vsync
+R0
+R12
+!i10b 1
+!s100 UfICGW6Z5PNl]1WDf_o]U1
+I:za<=<e^CVLlo9U^YKLe<0
+R3
+!s105 sync_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/sync.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/sync.sv
+R40
+R7
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/sync.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/sync.sv|
+!i113 1
+R9
+R10
+vsync_wedge
+R0
+R12
+!i10b 1
+!s100 S4FJf0LnaYjCU5?LD>O6g3
+ICV_lAhQUTT7]C1h6Rd=[Q0
+R3
+!s105 sync_wedge_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/sync_wedge.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/sync_wedge.sv
+R40
+R7
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/sync_wedge.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/sync_wedge.sv|
+!i113 1
+R9
+R10
+vunread
+R0
+R12
+!i10b 1
+!s100 aZLH?UAKiA40[SNU:KSm30
+I8f8^ecnKE2K<n]H8nQF?Y1
+R3
+!s105 unread_sv_unit
+S1
+R4
+R5
+8C:/Users/natha/OneDrive/Documentos/nucleo_test/unread.sv
+FC:/Users/natha/OneDrive/Documentos/nucleo_test/unread.sv
+R86
+R7
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/natha/OneDrive/Documentos/nucleo_test/unread.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/natha/OneDrive/Documentos/nucleo_test/unread.sv|
+!i113 1
+R9
+R10
