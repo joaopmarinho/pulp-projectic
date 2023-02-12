@@ -1,3 +1,12 @@
+`timescale 10ps/1ps
+
+`define REF_CLK_PERIOD   (2*15.25us)  // 32.786 kHz --> FLL reset value --> 50 MHz
+`define CLK_PERIOD       40.00ns      // 25 MHz
+
+`define EXIT_SUCCESS  0
+`define EXIT_FAIL     1
+`define EXIT_ERROR   -1
+
 module coreTest;
     import cv32e40p_pkg::*;
     import cv32e40p_apu_core_pkg::*;
@@ -64,27 +73,81 @@ module coreTest;
 
     cv32e40p_core dut(.*);
 
+    localparam CLKPERIOD = 10000;
+    localparam CLKDELAY = CLKPERIOD/2;
+
+      initial
+        begin
+            #(`CLK_PERIOD/2);
+            clk_i = 1'b1;
+            forever clk_i = #(`CLK_PERIOD/2) ~clk_i;
+        end
+
+
     initial begin
         //output logic [31:0] data_wdata_o,
         $monitor($time," - instr_addr_o = %b | data_addr_o = %b | data_wdata_o = %b", instr_addr_o, data_addr_o, data_wdata_o);
+        #500ns
+        //Inital values
+
+        clk_i = 1'b1;
+        rst_ni = 1'b1;
+        enable_i = 1'b1;
+        pulp_clock_en_i = 1'b1;    // PULP clock enable (only used if PULP_CLUSTER = 1)
+        scan_cg_en_i = 1'b1;       // Enable all clock gates for testing
+
+        // CPU Control Signals
+        fetch_enable_i = 1'b1;
+        
+        #500ns;
+
+        // Core ID, Cluster ID, debug mode halt address and boot address are considered more or less static
+        boot_addr_i = PC_BOOT;
+        mtvec_addr_i = 32'b0;
+        dm_halt_addr_i = 32'b0;
+        hart_id_i = 32'b0;
+        dm_exception_addr_i = 32'b0;
+
+        //instructions part
+        instr_gnt_i = 1'b1;//flag para saber se o próximo estágio do pipeline aceitou o request do anterior
+        instr_rvalid_i = 1'b1;//é 1 quando o instr_rdata_i tem um valor válido
+        instr_rdata_i = 32'b11111111111111111111111111111111;
+
+        //data part
+        data_gnt_i = 1'b1;
+        data_rvalid_i = 1'b1;
+        data_rdata_i = 32'b11111111111111111111111111111111;
+
+        // apu-interconnect
+        // handshake signals
+        apu_gnt_i = 1'b1;
+        apu_rvalid_i = 1'b1;
+
+        // Interrupt inputs
+        irq_i = 32'b0;  // CLINT interrupts + CLINT extension interrupts
+
+        // Debug Interface
+        debug_req_i = 1'b1;
+
+        #200ns;
+        
 
         // Instrução: addi x10, x10, 1
-        instr_rdata_i = 32'b00000000_00010101_00000101_00010011;
-        data_rdata_i = 32'b0;
-
-        //output logic [31:0] instr_addr_o,
-        //output logic [31:0] data_addr_o,
-        //output logic [31:0] data_wdata_o,
-
+        rst_ni = 1'b0;
     end
+
+    always #(CLKDELAY) clk_i = ~clk_i;
+    
 endmodule: coreTest
+
+
 
 //Little endian
 
 //00 15 05 13 00 00 00 00 00 00 00 00 00 00 00 00
 //00000000 00010101 00000101 00010011 instrução
-//00000000 00000000 00000000 00000000 dados?
+//00000000 00000000 00000000 00000000 
 
-//00000000 00000000 00000000 00000000 memória
+//00000000 00000000 00000000 00000000 dados
 //00000000 00000000 00000000 00000000
 //addi x10, x10, 1
